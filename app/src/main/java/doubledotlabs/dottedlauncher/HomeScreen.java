@@ -1,7 +1,7 @@
-package com.marlonjones.voidlauncher;
+package doubledotlabs.dottedlauncher;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
 public class HomeScreen extends AppCompatActivity {
 

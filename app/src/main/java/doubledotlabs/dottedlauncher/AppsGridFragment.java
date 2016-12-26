@@ -1,4 +1,4 @@
-package com.marlonjones.voidlauncher;
+package doubledotlabs.dottedlauncher;
 
 import android.app.LoaderManager;
 import android.content.Intent;

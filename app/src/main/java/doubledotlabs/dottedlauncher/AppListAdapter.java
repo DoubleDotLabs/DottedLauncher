@@ -1,4 +1,4 @@
-package com.marlonjones.voidlauncher;
+package doubledotlabs.dottedlauncher;
 
 import android.annotation.TargetApi;
 import android.content.Context;
